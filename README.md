@@ -1,2 +1,2 @@
 # isi
-project isi
+project isi 🔥
